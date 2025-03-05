@@ -294,6 +294,9 @@ dist
 .tern-port
 
 # Stores VSCode versions used for testing VSCode extensions
+# VSCode folder
+.vscode/
+
 .vscode-test
 
 # yarn v2
@@ -307,3 +310,11 @@ dist
 cypress/videos
 cypress/screenshots
 .vscode/settings.json
+build_output_example
+
+# Secrets
+.secrets
+
+# Act configuration file
+.actrc
+
